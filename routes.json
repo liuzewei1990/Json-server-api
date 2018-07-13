@@ -1,0 +1,3 @@
+{
+    "/banks/:id": "/banks/?uid=:id"
+}

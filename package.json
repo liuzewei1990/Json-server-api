@@ -1,0 +1,16 @@
+{
+  "name": "json-server-api-demo",
+  "version": "1.0.0",
+  "description": "模拟接口数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "json-server db/db.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.0",
+    "mockjs": "^1.0.1-beta3"
+  }
+}

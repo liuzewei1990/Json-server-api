@@ -1,0 +1,24 @@
+{
+  "banks": [
+    {
+      "bankCode": "121212",
+      "bankName": "阿门",
+      "id": 1
+    },
+    {
+      "bankCode": "121212",
+      "bankName": "阿门",
+      "id": 2
+    },
+    {
+      "bankCode": "121212",
+      "bankName": "阿门",
+      "id": 3
+    },
+    {
+      "bankCode": "121212",
+      "bankName": "阿门",
+      "id": 4
+    }
+  ]
+}
